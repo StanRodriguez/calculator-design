@@ -1,0 +1,28 @@
+table{
+	font-family: palatino;
+	text-align: center;
+	max-width: 400px;
+	margin: 0 auto;
+	color: #DDDDDD;
+	border: 2px solid;
+	box-shadow: 20px 20px 10px grey;
+	border-radius: 5px;
+	font-size: 20px;
+	background-color: #DDDDDD;
+	height: 300px;
+}
+td{
+	padding: 15px;
+	margin: 10px;
+	background-color: #0074D9;
+}
+.last{
+	background-color: #001f3f;
+}
+.input{
+	width: 90%;
+	height: 20px;
+	text-align: right;
+	font-size: 25px;
+	padding: 10px;
+}
